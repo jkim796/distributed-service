@@ -1,4 +1,4 @@
-# CS 6210: Distributed Service using grpc - Project 3
+# Distributed Service using grpc
 
 # Setup
 Clone this repository:
